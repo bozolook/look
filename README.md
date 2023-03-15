@@ -1,4 +1,3 @@
-Game site work in proggress.
 
 https://www.gamesflow.com/
 

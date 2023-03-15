@@ -10,3 +10,5 @@ button {
   cursor: pointer;
 }
 
+<button> your button that looks like a link</button>
+

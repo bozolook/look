@@ -1,14 +1,9 @@
-button {
-  background: none!important;
-  border: none;
-  padding: 0!important;
-  /*optional*/
-  font-family: arial, sans-serif;
-  /*input has OS specific font-family*/
-  color: #069;
-  text-decoration: underline;
-  cursor: pointer;
-}
+<a href="https://ekoerp1.github.io/eaglercraft-1.15-Final-Release/javascript/" class="button">Go to mincraft</a>
+a.button {
+  -webkit-appearance button;
+  -moz-appearance button;
+  appearance button;
 
-<button> your button that looks like a link</button>
-
+  text-decoration none;
+Color: initial;
+} 
